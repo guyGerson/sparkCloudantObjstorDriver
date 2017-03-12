@@ -1,5 +1,5 @@
 # Seamless Analytics Demo
-Copyright (c) 2017 IBM under Apache 2.0, See [License](https://https://github.com/guyGerson/sparkCloudantObjstorDriver/blob/master/LICENSE)
+Copyright (c) 2017 IBM under Apache 2.0, See [License](https://github.com/guyGerson/sparkCloudantObjstorDriver/blob/master/LICENSE)
 
 See the recipe [here(update me)](https://https://github.com/guyGerson/sparkCloudantObjstorDriver/blob/master/LICENSE)
 
